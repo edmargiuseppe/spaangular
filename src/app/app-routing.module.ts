@@ -8,17 +8,7 @@ const routes: Routes = [
  {
     path: '',
     component: HomeComponent
-  } /*, 
- 
-  {
-    path: '',
-    component: AlunoComponent
-  }, 
-
-  {
-    path: '',
-    component: CursoComponent
-  }   */
+  } 
 ];
 
 @NgModule({
